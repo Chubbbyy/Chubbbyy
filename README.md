@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack**
 
-Me chamo Chubby e estudo Ciência da Computação. Vim da prática: atuei em logística na Onlog, onde desenvolvi noções sólidas de organização, processos e disciplina — coisas que levo para o desenvolvimento de software.Estou sempre estudando novas tecnologias e procurando projetos onde eu possa aprender na marra e entregar valor real. Objetivo: crescer como desenvolvedor e aplicar conhecimento técnico em projetos práticos."[@instagram](https://www.instagram.com/chubbys_0)".
+Me chamo Chubby e estudo Ciência da Computação. Vim da prática: atuei em logística na Onlog, onde desenvolvi noções sólidas de organização, processos e disciplina — coisas que levo para o desenvolvimento de software.Estou sempre estudando novas tecnologias e procurando projetos onde eu possa aprender na marra e entregar valor real. Objetivo: crescer como desenvolvedor e aplicar conhecimento técnico em projetos práticos."[@Chubby](https://www.instagram.com/chubbys_0)".
 
 ---
 
